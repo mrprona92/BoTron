@@ -1,0 +1,88 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="RatingDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+    <style name="Layout"></style>
+
+    <style name="Button.Dialog" parent="Layout.WrapWidthHeight">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_height">@dimen/btn_height_small</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/cmn_white</item>
+        <item name="android:minWidth">50dp</item>
+        <item name="android:padding">@dimen/padding_normal</item>
+        <item name="android:textSize">@dimen/text_title</item>
+    </style>
+
+    <style name="Button.Dialog.Green" parent="Button.Dialog">
+        <item name="android:background">@drawable/bg_common_round_green</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:padding">@dimen/padding_small</item>
+    </style>
+
+    <style name="Layout.WrapWidthHeight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/zoom_out</item>
+        <item name="android:windowExitAnimation">@anim/fadeout</item>
+    </style>
+
+    <style name="Layout.FillWidth">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="Layout.FillWidthHeight.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Layout.FillWidth.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="Text.Normal.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_black</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+
+    <style name="Layout.FillWidth.Horizontal">
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+
+    <style name="Button.Dialog.Gray" parent="Button.Dialog">
+        <item name="android:background">@drawable/bg_common_round_grey_dark</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+    </style>
+
+    <style name="Button.Dialog.GrayWeak" parent="Button.Dialog">
+        <item name="android:background">@drawable/bg_common_round_grey_darkweak</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+    </style>
+
+
+
+</resources>

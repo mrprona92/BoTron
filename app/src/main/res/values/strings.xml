@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ORound- S8 Bo tròn màn </string>
+    <string name="str_setting">CÀI ĐẶT</string>
+    <string name="str_setting_on">Bật</string>
+    <string name="str_setting_off">Tắt</string>
+    <string name="str_setting1">Hiện thông báo</string>
+    <string name="str_setting2">Chọn góc</string>
+    <string name="str_setting3">Thay đổi bán kính</string>
+
+    <string name="str_color">ĐỔI MÀU SẮC</string>
+
+    <string name="str_setting_thongbao">Nếu không muốn hiện notification bạn có thể chặn notification(Cài đặt-> Quản lý ứng dng -> Cho phép thông báo(Off))</string>
+
+    <string-array name="setting_round">
+        <item>Trên cùng bên phải</item>
+        <item>Trên cùng bên trái</item>
+        <item>Dưới cùng bên phải</item>
+        <item>Dưới cùng bên trái</item>
+    </string-array>
+
+    <string name="dialog_sorry">Xin lỗi!</string>
+    <string name="dialog_sorry_content">Tôi cần gắn quảng cáo để thực hiện tiếp công việc phát triển ứng dụng của mình. Thành thật xin lỗi bạn vì sự bắt tiện này!</string>
+
+    <string name="str_rating_app">Đánh giá ứng dụng</string>
+    <string name="str_report_bug">Báo cáo lỗi</string>
+    <string name="str_content_bug">Nội dung</string>
+
+    <string name="str_content_notification">Giữ notification để ứng dụng luôn hoạt động(Click vào để tắt)</string>
+
+
+    <string name="str_rating_content1">Cảm nhận của bạn về ứng dụng</string>
+    <string name="str_rating_content2">Lúc khác</string>
+    <string name="str_rating_content3">Gửi feed</string>
+    <string name="str_rating_content4">Chúng tôi cần phát triển thêm điều gì?</string>
+
+    <string name="str_rating_content5">Cảm ơn vì sự giúp đỡ để làm ứng dụng tốt hơn</string>
+
+    <string name="str_rating_content6">Thông báo lỗi đến nhà phát triển</string>
+
+
+    <string name="cmn_cancel">Cancel</string>
+    <string name="cmn_ok">OK</string>
+    <string name="cmn_4round">Chọn góc bo</string>
+    <string name="multiprocess_preferences_authority" translatable="true">com.gdubina.multiprocesspreferences.PREFFERENCE_AUTHORITY</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1818774973864163/4206807433</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1818774973864163/5231936884</string>
+
+    <string name="str_support">HỖ TRỢ NHÀ PHÁT TRIỂN</string>
+</resources>

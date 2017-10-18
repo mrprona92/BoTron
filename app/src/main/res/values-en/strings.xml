@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">ORound- S8 Round Screen</string>
+    <string name="str_setting">SETTINGS</string>
+    <string name="str_setting_on">On</string>
+    <string name="str_setting_off">Off</string>
+    <string name="str_setting1">Display notification</string>
+    <string name="str_setting2">Select corner</string>
+    <string name="str_setting3">Change radius</string>
+
+    <string name="str_color">CHANGE COLOR</string>
+
+    <string name="str_setting_thongbao">If dont want dislay notification you need to change setting(Settings-> App Notification -> Off Allow Notification)</string>
+
+    <string-array name="setting_round">
+        <item>Top right</item>
+        <item>Top left</item>
+        <item>Botton right</item>
+        <item>Botton left</item>
+    </string-array>
+
+    <string name="dialog_sorry">Sorry!</string>
+    <string name="dialog_sorry_content">I need money to perform next app. Really sorry about advertising</string>
+    <string name="str_content_bug">Bug content</string>
+
+    <string name="str_rating_app">Rating app</string>
+    <string name="str_report_bug">Report bugs</string>
+
+    <string name="cmn_cancel">Cancel</string>
+    <string name="cmn_ok">OK</string>
+    <string name="cmn_4round">Select corner</string>
+    <string name="multiprocess_preferences_authority" translatable="true">com.gdubina.multiprocesspreferences.PREFFERENCE_AUTHORITY</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-1818774973864163/4206807433</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-1818774973864163/5231936884</string>
+
+    <string name="str_content_notification">Keep notification to application always running(Click to disable)</string>
+
+    <string name="str_rating_content1">How was your experience with us?</string>
+    <string name="str_rating_content2">Not Now</string>
+    <string name="str_rating_content3">Submit Feedback</string>
+    <string name="str_rating_content4">Tell us where we can improve</string>
+
+    <string name="str_rating_content5">Many thanks for your support to make app better</string>
+
+
+    <string name="str_rating_content6">Report bugs</string>
+
+
+    <string name="str_support">SUPPORT</string>
+</resources>
